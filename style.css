@@ -1,0 +1,240 @@
+
+.section1{
+    background-image: url(./images/hero_bts2023_startframe__f787lg06y3ue_small.jpg);
+    background-size: cover;
+    height: 950px;
+    padding-top: 0%;
+    font-family: sans-serif;
+    overflow: hidden;
+    object-fit: cover;
+}
+.nav{
+    background-color: white;
+    color: black;
+    font-family: sans-serif;
+    
+    text-align: end;
+    margin-right: 4px;
+    font-size: 30px;
+    
+}
+.nav a{
+    margin-left: 4pc;
+    padding-left: 4px;
+    text-decoration: none;
+    
+}
+.nav a:hover{
+    background-color: blue;
+    color: white;
+}
+.logo img{
+    margin-right: 24.5pc;
+}
+.h1{
+    
+    text-align: center;
+    font-size: 35px;
+    line-height: 6px;
+    margin-top: 5pc;
+    padding-top: 1.5pc;
+}
+.h2{
+    text-align: center;
+    line-height: 6px;
+    font-size: 35px;
+}
+.shopnow{
+    color: blue;
+    text-align: center;
+}
+.section2{
+    background-image:url(./images/hero_iphone14pro_spring__9xo85pm6sbmm_large.jpg);
+    background-size:cover;
+    height: 400px;
+    margin-top: 2px;
+    text-align: center;
+    font-family: sans-serif;
+    overflow: hidden;
+    object-fit: cover;
+    color: white;
+    text-align: center;
+    background-position: center;
+    
+
+    
+}
+.h3{
+    font-size: 30px;
+    line-height: 0%;
+    padding-top: 0%;
+    
+}
+.para1{
+    font-size: 30px;
+    line-height: 0px;
+}
+.learnmore {
+    color: rgba(219, 125, 248, 0.918);
+    margin-right: 0pc;
+    margin-bottom: 5pc;
+
+    
+}
+.learnmore
+span{
+    margin-left: 2pc;
+}
+.section3{
+    background-image: url(./images/hero_iphone14_yellow__eun20sn4imi6_small.jpg);
+    background-size: cover;
+    height: 800px;
+    padding-top: 3pc;
+    text-align: center;
+    border-bottom: 2px solid black;
+    line-height: 2pc;    
+}
+
+
+.container{
+    background-image: url(./images/promo_macbook_air_15_midnight__3zojl1nanrme_large.jpg);
+width: 49%;
+height: 560px;
+background-position: center;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+padding-top: 20px;
+float: left;
+margin-right: 2%;
+
+}
+
+.container2{
+    background-image: url(./images/promo_apple_vision_pro__f4v4zp0sum2y_large.jpg);
+width: 49%;
+height: 520px;
+background-position: center;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+padding-top: 60px;
+line-height: 4px;
+float:left;
+}
+.container2 img{
+    padding-top: 19pc;
+    line-height: 0px;
+}
+.learnmore{
+    line-height: 1.5pC;
+}
+.contaier3{
+    background-image: url(./images/promo_apple_watch_series_8_spring__d9hfvufh7hyu_small_2x.jpg);
+    width: 49%;
+    height: 800px;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    line-height: 3px;
+    float: left;
+    margin-right: 2%;
+    margin-top: 15px;
+
+    
+}
+.contaier3 img{
+    padding-top: 10pc;
+    width: 240px;
+}
+
+
+.container4{
+    background-image:url(./images/tradin\ large.jpg);
+    width: 49%;
+    height: 799px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+line-height: 12px;
+background-repeat: no-repeat;
+display: inline-block;
+margin-top: 15px;
+background-position: center;
+background-color: antiquewhite;
+
+
+
+}
+.container4 img{
+    padding-top: 10pc;
+    width: 240px;
+}
+.container4 p{
+    color: blue;
+}
+.container5{
+    background-image:url(./images/ipade.jpg);
+    width: 49%;
+    height: 535px;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 12px;
+background-repeat: no-repeat;
+display: inline-block;
+background-position: center;
+color: white;
+text-align: center;
+margin-top: 20px;
+float: right;
+padding-top: 10px;
+
+}
+
+.container6{
+    background-image: url(./images/card2.jpg);
+    width: 49%;
+    height: 570px;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+
+
+}
+.container6 img{
+    padding-top: 4pc;
+}
+.para2{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    margin-left: 10px;
+}
+.coloums{
+    display: inline-block
+}
+.colum1{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-left: 5px;
+    
+
+}
+.colum2{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-left: 5pc;
+}
+.colum3{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-left: 5pc;
+}
+
+.colum4{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-left: 5pc;
+}
+.colum5{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-left: 5pc;
+}
